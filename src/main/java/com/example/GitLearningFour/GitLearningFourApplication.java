@@ -8,7 +8,7 @@ public class GitLearningFourApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("in master");
+		System.out.println("in issue1");
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
