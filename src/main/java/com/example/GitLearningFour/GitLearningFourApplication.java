@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitLearningFourApplication {
 
 	public static void main(String[] args) {
+
+		System.out.println("in master");
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
