@@ -11,4 +11,8 @@ public class GitLearningFourApplication {
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
+	void bugfix(){
+		System.out.println("Bug fix");
+	}
+
 }
