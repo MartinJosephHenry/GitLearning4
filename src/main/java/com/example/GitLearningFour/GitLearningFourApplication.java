@@ -17,6 +17,7 @@ public class GitLearningFourApplication {
 
 	void bugfix(){
 		System.out.println("Bug fix");
+		System.out.println("Bug fix 2");
 	}
 
 }
