@@ -5,10 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitLearningFourApplication {
-
 	public static void main(String[] args) {
 
-		System.out.println("master1");
+		System.out.println("issue1");
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
