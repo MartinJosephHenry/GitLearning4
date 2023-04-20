@@ -11,4 +11,8 @@ public class GitLearningFourApplication {
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
+	void feature(){
+		System.out.println("feature");
+	}
+
 }
