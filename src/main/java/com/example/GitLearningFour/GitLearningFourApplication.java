@@ -9,6 +9,7 @@ public class GitLearningFourApplication {
 
 		System.out.println("issue1");
 		System.out.println("master2");
+		System.out.println("This a bug fix");
 		SpringApplication.run(GitLearningFourApplication.class, args);
 	}
 
