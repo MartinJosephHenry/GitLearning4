@@ -13,11 +13,13 @@ public class GitLearningFourApplication {
 
 	void feature(){
 		System.out.println("feature");
+		System.out.println("rebase git");
 	}
 
 	void bugfix(){
 		System.out.println("Bug fix");
 		System.out.println("Bug fix 2");
 	}
+
 
 }
